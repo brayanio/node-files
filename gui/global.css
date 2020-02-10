@@ -1,0 +1,31 @@
+.icon {
+    display: flex;
+    align-items: center;
+}
+
+.filetree {
+    border-right: 6px solid rgba(0, 0, 0, 0.06);
+    overflow-x: hidden;
+}
+
+.filetree a {
+    text-transform: none;
+}
+
+.filetree button {
+    text-transform: none;
+}
+
+.asset_img{
+    max-width: 200px;
+    margin: 12px;
+    border: 12px;
+}
+
+.inline-flex{
+    display: inline-flex;
+}
+
+pre{
+    white-space: pre-wrap;
+}
